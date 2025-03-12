@@ -1,7 +1,7 @@
 Readme
 
 Description
-The purpose of this test task is to bring together and showcase high-level best practices for UI and API automation. It demonstrates SOLID principles and commonly used design patterns in automation.
+The purpose of this test task is to bring together and showcase high-level best practices for UI and API automation. It demonstrates SOLID principles and commonly used patterns in automation.
 
 How to Run Tests
 
